@@ -1,0 +1,86 @@
+{
+  "_args": [
+    [
+      "angular2-text-mask@latest",
+      "/data/projects/uptracker/frontend-uptracker"
+    ]
+  ],
+  "_from": "angular2-text-mask@latest",
+  "_id": "angular2-text-mask@0.22.0",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/angular2-text-mask",
+  "_nodeVersion": "6.5.0",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/angular2-text-mask-0.22.0.tgz_1475117762655_0.489497046219185"
+  },
+  "_npmUser": {
+    "email": "msafi@msafi.com",
+    "name": "msafi"
+  },
+  "_npmVersion": "3.10.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "name": "angular2-text-mask",
+    "raw": "angular2-text-mask@latest",
+    "rawSpec": "latest",
+    "scope": null,
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/angular2-text-mask/-/angular2-text-mask-0.22.0.tgz",
+  "_shasum": "e04d7bc4cd5e813576a1f6fe8e565a7f7a6f37d0",
+  "_shrinkwrap": null,
+  "_spec": "angular2-text-mask@latest",
+  "_where": "/data/projects/uptracker/frontend-uptracker",
+  "author": {
+    "email": "msafi@msafi.com",
+    "name": "M.K. Safi"
+  },
+  "bugs": {
+    "url": "https://github.com/text-mask/text-mask/issues"
+  },
+  "dependencies": {},
+  "description": "Angular 2 directive for input text masking",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "e04d7bc4cd5e813576a1f6fe8e565a7f7a6f37d0",
+    "tarball": "https://registry.npmjs.org/angular2-text-mask/-/angular2-text-mask-0.22.0.tgz"
+  },
+  "homepage": "https://github.com/text-mask/text-mask/tree/master/angular2/#readme",
+  "keywords": [
+    "angular2",
+    "ng2",
+    "angular2 component",
+    "angular2 directive",
+    "text mask",
+    "input mask",
+    "string mask",
+    "input formatting",
+    "text formatting",
+    "string formatting"
+  ],
+  "license": "Unlicense",
+  "main": "dist/angular2TextMask.js",
+  "maintainers": [
+    {
+      "email": "msafi@msafi.com",
+      "name": "msafi"
+    }
+  ],
+  "name": "angular2-text-mask",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/text-mask/text-mask.git"
+  },
+  "scripts": {},
+  "typings": "./dist/angular2TextMask.d.ts",
+  "version": "0.22.0"
+}
