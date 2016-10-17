@@ -78,7 +78,7 @@
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/text-mask/text-mask.git"
+    "url": "git+https://github.com/tairezzzz/ng2-input-text-mask.git"
   },
   "scripts": {},
   "typings": "./dist/angular2TextMask.d.ts",
